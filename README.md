@@ -1,1 +1,1 @@
-# GraduationProject2
+# Detecting Malwared Images Using Machine Learning
